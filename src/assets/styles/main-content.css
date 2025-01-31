@@ -45,7 +45,12 @@
 .header__login {
   display: flex;
   align-items: center;
+  position: relative;
+  margin-left: 40rem;
+ 
 }
+
+
 
 .header__search {
   display: flex;

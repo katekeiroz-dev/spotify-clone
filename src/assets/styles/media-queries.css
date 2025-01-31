@@ -22,11 +22,16 @@
     width: auto !important;
     display: none;
   }
-
+ 
+  
+  
   /* .offer__list-item {
     grid-template-columns: 1fr 1fr 1fr !important;
   } */
 }
+
+
+
 
 @media screen and (max-width: 375px) {
   .playlist {

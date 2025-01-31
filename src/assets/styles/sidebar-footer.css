@@ -148,7 +148,9 @@ body{
     font-size:10px;
     text-decoration: none;
 }
-
+.library > .cookies{
+    margin-top: 312px;
+}
 .sidebar .cookies a:hover{
     text-decoration: underline;
 }
